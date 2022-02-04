@@ -1,0 +1,12 @@
+{
+ "name": "JBL",
+ "website": "https://jblgamefi.io/",
+ "description": " 
+JBL is Combining the most familiar sports “baseball” with the easy-to-understand “games”,  we integrate the three major elements of game, mining, and NFT to create new horizons. ",
+ "explorer": "https://bscscan.com/token/0xf6e81be564a53f207081c39b9ce0d8f745d85202",
+ "type": "BEP20",
+ "symbol": " JBL ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf6e81be564a53f207081c39b9ce0d8f745d85202"
+}
